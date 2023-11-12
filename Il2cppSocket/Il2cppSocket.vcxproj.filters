@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\dllmain.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\Endpoints\Type_Post.h">
+      <Filter>Endpoints</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Endpoints\Image_Post.h">
+      <Filter>Endpoints</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Endpoints\Method_Post.h">
+      <Filter>Endpoints</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Endpoints\Property_Post.h">
+      <Filter>Endpoints</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Endpoints\Field_Post.h">
+      <Filter>Endpoints</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Endpoints\Domain_Post.h">
+      <Filter>Endpoints</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Endpoints\Get.h">
+      <Filter>Endpoints</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Endpoints\Class_Post.h">
+      <Filter>Endpoints</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Endpoints\Assembly_Post.h">
+      <Filter>Endpoints</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Il2cpp.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="src\httplistener.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="src\helpers.h" />
+    <ClInclude Include="src\endpoints.h" />
+    <ClInclude Include="src\Endpoints\String_Post.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Endpoints">
+      <UniqueIdentifier>{94c02d17-2cd8-4f5c-a6f1-180fa4e90a91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{fe3c5e64-f50f-4caa-8900-f843b34cd304}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
