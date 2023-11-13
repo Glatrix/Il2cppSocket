@@ -4,4 +4,4 @@ Il2cppSocket is an HttpListener that can be injected into an Unity Il2cpp game t
 # Note:
 Looking for help on development. If you know any in-depth Il2cpp and/or UnityEngine mechanics, Let me know!
 Discord Username: glatrix
-Old Discord: Glatrix#0001
+Old Discord: Glatrix\#0001
